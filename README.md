@@ -11,7 +11,7 @@ The codebase is built on [JailbreakBench](https://github.com/JailbreakBench/jail
 Follow the installation instructions from the original JailbreakBench repository:
 
 ```bash
-conda create -n spd python=3.8
+conda create -n spd python=3.10
 cd jailbreakbench
 pip install jailbreakbench[vllm]
 ```
