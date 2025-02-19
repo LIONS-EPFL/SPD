@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ---
 ## Usage
 
-1. In /data folder, we share a huge successfull jailbreaking dataset we generated for 4 models from 3 different attack ([GCG](https://github.com/llm-attacks/llm-attacks), [AutoDAN](https://github.com/SheltonLiu-N/AutoDAN) and [PAIR](https://github.com/patrickrchao/JailbreakingLLMs)) with more than 4000 samples in total.
+1. In `data` folder, we share a huge successfull jailbreaking dataset we generated for 4 models from 3 different attack ([GCG](https://github.com/llm-attacks/llm-attacks), [AutoDAN](https://github.com/SheltonLiu-N/AutoDAN) and [PAIR](https://github.com/patrickrchao/JailbreakingLLMs)) with more than 4000 samples in total.
 2. You can run the evaluate.ipynb to save and load logit values, train a classifier and test on your data.
 
 ---
