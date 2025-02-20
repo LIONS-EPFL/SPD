@@ -28,6 +28,20 @@ pip install -r requirements.txt
 2. You can run the evaluate.ipynb to save and load logit values, train a classifier and test on your data.
 
 ---
+## Cite as:
+
+```bibtex
+@article{
+candogan2025singlepass,
+title={Single-pass Detection of Jailbreaking Input in Large Language Models},
+author={Leyla Naz Candogan and Yongtao Wu and Elias Abad Rocamora and Grigorios Chrysos and Volkan Cevher},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=42v6I5Ut9a},
+note={}
+}
+```
 
 If you use the dataset in your work, please also consider citing its constituent sources of the attacks:
 
